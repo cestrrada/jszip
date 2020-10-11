@@ -1,6 +1,6 @@
 {
   "name": "ce-jszip",
-  "version": "3.6.1",
+  "version": "3.6.0",
   "author": "Carlos Estrada <me@caestrada.com>",
   "description": "A fork of @Stuk's JSZip. Create, read and edit .zip files with JavaScript https://cestrrada.github.io/jszip",
   "scripts": {
